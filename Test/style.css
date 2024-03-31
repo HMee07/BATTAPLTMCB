@@ -1,0 +1,251 @@
+/* CSS chung cho cả hai trang */
+
+
+  /* CSS cho trang chủ
+  
+  .news-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .news-list li {
+    margin-bottom: 10px;
+  }
+  
+  .news-list li a {
+    display: block;
+  }
+  
+  .news-list li img {
+    float: left;
+    margin-right: 10px;
+  }
+   */
+  /* CSS cho trang đăng nhập */
+  
+  .container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  
+  .background-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .form-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    z-index: 1;
+    opacity: 0.85;
+  }
+  form {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    opacity: 1;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+  }
+  #eye {
+    position: relative;
+    left: -25px;
+    top: 5px;
+    cursor: pointer;
+  }
+  
+  .fa-eye-slash {
+    color: black;
+  }
+  
+  
+    /* CSS cho trang chủ*/
+
+    body {
+      font-family: 'Times New Roman', Times, serif, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    h1 {
+      font-size: 2em;
+      margin-top: 0;
+      color:#001A3D;
+      text-align: center;
+    }
+    
+    a {
+      text-decoration: none;
+      color: #000;
+    }
+    
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px;
+      background-image: radial-gradient(farthest-side at top left, #5DE0E6, #004AAD);
+    }
+    
+    header img {
+      width: 100px;
+    }
+    
+    header h1 {
+      margin: 0;
+      flex: 1; /* Expands header title to fill remaining space */
+    }
+    
+    nav {
+      display: flex;
+      align-items: center;
+    }
+    
+    .menu ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    
+    .menu li {
+      float: left; /* Removed for responsive layout */
+      line-height: 35px;
+      padding: 0 55px;
+    }
+    
+    .menu li a {
+      color: #fff;
+      font-size: 14px;
+      text-decoration: none;
+      font-weight: 800;
+    }
+    
+    .search {
+
+      line-height: 100px;
+      margin-right: 10px; /* Adjust margin for better spacing */
+    }
+    #tim{
+      width: 300px;
+      margin-right: 2px;
+    }
+    #nuttim{
+      width: 100px;
+      margin: 20px;
+      background-color:#DFDFDF;
+      padding: 2px;
+    }
+
+    #signin{
+      background-color: #C5ECFF;
+      background-size: auto;
+      padding: 2px;
+      
+
+    }
+    main {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+    
+    main h2 {
+      margin-top: 0;
+    }
+    
+    .new_list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      width: 80%;
+    }
+    
+    .new_item {
+      padding-left:100px ;
+      width: 300px;
+      margin: 10px;
+      border: 1px solid #ddd; /* Added border for separation */
+      padding: 10px; /* Added padding for content spacing */
+      margin-right: 70px;
+      background-color: #C5ECFF;
+    }
+    
+    h4{
+      font-size: 24px;
+      color:#113C61;
+      text-align: center;
+   }
+   main .new_list .new_item img{
+    padding-left: 35px;
+    padding-right: 35px;
+
+   }
+    /* Media Queries for Responsive Design (Adjust as needed) */
+    
+    @media only screen and (max-width: 768px) {
+      header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    
+      header h1 {
+        margin-bottom: 10px;
+      }
+    
+      nav {
+        width: 100%;
+        justify-content: space-between;
+      }
+    
+      .menu {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-top: 10px;
+      }
+    
+      .menu li {
+        width: 100%;
+        text-align: center;
+      }
+    
+      .search {
+        margin-right: 0;
+      }
+    }
+    
+    footer {
+      display: flex;
+      justify-content: center;
+      align-items: flex-end;
+    }
+    
