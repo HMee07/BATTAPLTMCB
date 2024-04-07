@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UIT-K17\\3. LAP TRINH MANG\\BAITAP\\webservice\\testws\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9911060-A1A7-494D-B3D8-A0C8CC7A4CE2}|testws\\testws.csproj|d:\\uit-k17\\3. lap trinh mang\\baitap\\webservice\\testws\\testws\\tws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9911060-A1A7-494D-B3D8-A0C8CC7A4CE2}|testws\\testws.csproj|solutionrelative:testws\\tws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9911060-A1A7-494D-B3D8-A0C8CC7A4CE2}|testws\\testws.csproj|D:\\UIT-K17\\3. LAP TRINH MANG\\BAITAP\\webservice\\testws\\testws\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9911060-A1A7-494D-B3D8-A0C8CC7A4CE2}|testws\\testws.csproj|solutionrelative:testws\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\UIT-K17\\3. LAP TRINH MANG\\BAITAP\\webservice\\testws\\testws\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "testws\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\UIT-K17\\3. LAP TRINH MANG\\BAITAP\\webservice\\testws\\testws\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "testws\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:10:42.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tws.asmx.cs",
+              "DocumentMoniker": "D:\\UIT-K17\\3. LAP TRINH MANG\\BAITAP\\webservice\\testws\\testws\\tws.asmx.cs",
+              "RelativeDocumentMoniker": "testws\\tws.asmx.cs",
+              "ToolTip": "D:\\UIT-K17\\3. LAP TRINH MANG\\BAITAP\\webservice\\testws\\testws\\tws.asmx.cs",
+              "RelativeToolTip": "testws\\tws.asmx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:33:16.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

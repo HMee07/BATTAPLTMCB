@@ -1,0 +1,7 @@
+D:\UIT-K17\3. LAP TRINH MANG\BAITAP\webservice\ConsoleWS\ConsoleWS\obj\Debug\ConsoleWS.csproj.AssemblyReference.cache
+D:\UIT-K17\3. LAP TRINH MANG\BAITAP\webservice\ConsoleWS\ConsoleWS\obj\Debug\ConsoleWS.csproj.CoreCompileInputs.cache
+D:\UIT-K17\3. LAP TRINH MANG\BAITAP\webservice\ConsoleWS\ConsoleWS\bin\Debug\ConsoleWS.exe.config
+D:\UIT-K17\3. LAP TRINH MANG\BAITAP\webservice\ConsoleWS\ConsoleWS\bin\Debug\ConsoleWS.exe
+D:\UIT-K17\3. LAP TRINH MANG\BAITAP\webservice\ConsoleWS\ConsoleWS\bin\Debug\ConsoleWS.pdb
+D:\UIT-K17\3. LAP TRINH MANG\BAITAP\webservice\ConsoleWS\ConsoleWS\obj\Debug\ConsoleWS.exe
+D:\UIT-K17\3. LAP TRINH MANG\BAITAP\webservice\ConsoleWS\ConsoleWS\obj\Debug\ConsoleWS.pdb
